@@ -1,0 +1,6 @@
+{
+  "name": "WhatsVentas Studio — Chatbot de Ventas para WhatsApp Web",
+  "description": "Plataforma y simulador en vivo de chatbot de ventas para WhatsApp Web con catálogo interactivo, cierre automático de pedidos, embudo CRM e integración lista para usar.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
